@@ -2,9 +2,10 @@
 @import './utils/visually-hidden';
 
 @import './base/common';
-@import './base/container';
-@import './base/section';
+@import './base/reset';
 
+@import './components/container';
+@import './components/section';
 @import './components/logo';
 @import './components/title';
 @import './components/backdrop';
